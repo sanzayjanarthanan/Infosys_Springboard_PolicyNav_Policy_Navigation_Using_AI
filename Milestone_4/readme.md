@@ -315,7 +315,7 @@ Run the application Cell by cell
 
 
 # Authors 
-Sanjay janarthanan
+Sanjay janarthanan,
 Velagada Devi Sri Prasad,
 Aarthi Chandolkar,
 Ramya ,
